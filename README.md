@@ -76,8 +76,6 @@ La communauté a développé des versions dérivées :
 
 ENGLISH ABADAVATAR
 
-Here is the **full English version**, faithfully translated and keeping the same structure, tone, and clarity as your original text.
-
 # 🎮 Detailed Presentation of **ABadAvatar** (Xbox 360)
 
 ## 🔍 What is ABadAvatar?
